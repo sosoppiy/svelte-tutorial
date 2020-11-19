@@ -42,6 +42,16 @@
 					<a href="/#/reactive/updating-arrays-and-objects">updating-arrays-and-objects</a>
 				</li>
 			</ul>
+
+			<b>Props</b>
+			<ul>
+				<li>
+					<a href="/#/props/declaring-props">declaring-props</a>
+				</li>
+				<li>
+					<a href="/#/props/spread-props">spread-props</a>
+				</li>
+			</ul>
 			
 		</div>
 

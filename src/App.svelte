@@ -15,6 +15,10 @@
     import Declarations from "./reactive/Declarations.svelte";
     import ReactiveStatements from "./reactive/ReactiveStatements.svelte";
     import UpdatingArraysAndbjects from "./reactive/UpdatingArraysAndbjects.svelte";
+
+    // props
+    import DeclaringProps from "./props/DeclaringProps.svelte";
+    import SpreadProps from "./props/SpreadProps.svelte";
       
     const routes = {
       '/': Main,
@@ -28,7 +32,8 @@
       "/reactive/declarations" :Declarations,
       "/reactive/reactive-statements" :ReactiveStatements,
       "/reactive/updating-arrays-and-objects" :UpdatingArraysAndbjects,
-      
+      "/props/declaring-props" :DeclaringProps,
+      "/props/spread-props": SpreadProps,
     };
   </script>
   
